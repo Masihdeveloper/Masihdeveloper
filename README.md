@@ -20,4 +20,6 @@ Thanks for time and Enjoy the rest of your day.
 
 # My Skills
 `Discord.js` `JavaScript` `Node.js` `TypeScript` `Translator` `HTML` `CSS` `PHP` `MongoDB` `PhotoShop` `Configurator`
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=masihdev1&label=Profile%20views&color=0e75b6&style=flat" alt="masihdev1" /> </p>
