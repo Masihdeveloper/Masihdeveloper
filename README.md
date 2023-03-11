@@ -20,3 +20,4 @@ Thanks for time and Enjoy the rest of your day.
 
 # My Skills
 `Discord.js` `JavaScript` `Node.js` `TypeScript` `Translator` `HTML` `CSS` `PHP` `MongoDB` `PhotoShop` `Configurator`
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
