@@ -29,8 +29,8 @@ Thanks for time and Enjoy the rest of your day.
 
 #
 
-<p align = "left"><img src= "https://github-readme-stats.vercel.app/api/top-langs?username=masihdev1&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117"/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=masihdev1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </p>
+<p align = "left"><img src= "https://github-readme-stats.vercel.app/api/top-langs?username=masihdev1&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117"/> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=masihdev1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 #
 
