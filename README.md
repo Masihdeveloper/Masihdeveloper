@@ -28,9 +28,8 @@ Thanks for time and Enjoy the rest of your day.
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Masihdev1&theme=react-dark&hide_border=true&area=true)
 
 
-<p align = "left"><img src= "https://github-readme-stats.vercel.app/api/top-langs?username=masihdev1&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117"/></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masihdev1" alt="masihdev1" /></a> </p>
+<p align = "left"><img src= "https://github-readme-stats.vercel.app/api/top-langs?username=masihdev1&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masihdev1" alt="masihdev1" /></a> </p>
 
 #
 
