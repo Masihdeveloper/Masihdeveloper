@@ -37,4 +37,6 @@ Thanks for time and Enjoy the rest of your day.
 [![Website masih.tk](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://masih.tk)
 <img src="https://komarev.com/ghpvc/?username=Masihdev1&color=brightgreen" alt="watching_count" />
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:masihux@@gmail.com)](mailto:masihux@gmail.com)
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true" width="40%"/>
+#
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/>
