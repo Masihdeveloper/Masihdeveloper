@@ -22,11 +22,13 @@ Thanks for time and Enjoy the rest of your day.
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,jquery,bootstrap,php,vscode,mongodb,postgres,cloudflare,discord,github,git)
 #
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masihdev1&show_icons=true&locale=en&layout=compact" alt="masihdev1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masihdev1&show_icons=true&locale=en" alt="masihdev1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masihdev1&show_icons=true&locale=en" alt="masihdev1" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masihdev1&" alt="masihdev1" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masihdev1&show_icons=true&locale=en&layout=compact" alt="masihdev1" /></p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masihdev1" alt="masihdev1" /></a> </p>
 
