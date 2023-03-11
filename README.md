@@ -29,6 +29,7 @@ Thanks for time and Enjoy the rest of your day.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masihdev1&background=0d1117&border=0d1117&show_icons=true&locale=en&layout=compact" alt="masihdev1" /></p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=masihdev1&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masihdev1" alt="masihdev1" /></a> </p>
 
