@@ -11,7 +11,7 @@ At the end hope to get a good and useful information about me. So if you have an
 
 Thanks for time and Enjoy the rest of your day.
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20Programmer%20;Discord%20Bot%20Developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=55&color=2578f5&vCenter=true&pause=1000&size=30" /></a> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20Programmer%20;Discord%20Bot%20Developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=55&color=0000EE&vCenter=true&pause=1000&size=30" /></a> </p>
 
 
 # Interests
