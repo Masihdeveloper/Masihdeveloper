@@ -29,7 +29,7 @@ Thanks for time and Enjoy the rest of your day.
 
 #
 ![Github Lan](https://github-readme-stats.vercel.app/api/top-langs?username=masihdev1&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
-![trophy](https://github-profile-trophy.vercel.app/?username=masihdev1&theme=nord)
+![trophy](https://github-profile-trophy.vercel.app/?username=masihdev1&theme=tokyonight)
 #
 
 <p align="left"> <a href="https://twitter.com/masihdev_" target="blank"><img src="https://img.shields.io/twitter/follow/masihdev_?logo=twitter&style=for-the-badge" alt="masihdev_" /></a> </p>
