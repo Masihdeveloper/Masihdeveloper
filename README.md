@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a> </p>
-
 # About Me!
 Hello there, I'm Masih Bagheri [He/Him] and my personality type is INTP-T and start existing 17 years ago and a developer who live in Iran.
 
@@ -12,6 +10,9 @@ One year ago started my own professional activity on Januray 21, 2021, which res
 At the end hope to get a good and useful information about me. So if you have any questions, comments or any ideas or suggestions and order the desired products, you can contact me through my social media, which is [Masihdev_ ](https://zil.ink/masihdev)
 
 Thanks for time and Enjoy the rest of your day.
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20web%20and%20app%20Programmer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a> </p>
+
 
 # Interests
 `🚗Cars` `💻Coding` `🎨Design`
