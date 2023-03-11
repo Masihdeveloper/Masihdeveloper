@@ -17,3 +17,6 @@ Thanks for time and Enjoy the rest of your day.
 `🎬Films` `🍔Foods` `👥Freinds`
 
 `📢News` `📸Photos` `⚽Sports`
+
+# My Skills
+`Discord.js` `JavaScript` `Node.js` `TypeScript` `Translator` `HTML` `CSS` `PHP` `MongoDB` `PhotoShop` `Configurator`
