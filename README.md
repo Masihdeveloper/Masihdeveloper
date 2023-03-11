@@ -26,7 +26,7 @@ Thanks for time and Enjoy the rest of your day.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masihdev1&show_icons=true&locale=en" alt="masihdev1"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masihdev1&" alt="masihdev1" /></p>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Masihdev1&theme=react-light&hide_border=true&area=true)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Masihdev1)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masihdev1&show_icons=true&locale=en&layout=compact" alt="masihdev1" /></p>
 
