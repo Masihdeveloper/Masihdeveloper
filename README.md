@@ -21,7 +21,7 @@ Thanks for time and Enjoy the rest of your day.
 
 `📢News` `📸Photos` `⚽Sports`
 
-# Technologies and Tools I use
+# My Skills and Tools I use
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,jquery,bootstrap,php,vscode,mongodb,postgres,cloudflare,discord,github,git)
 #
 
