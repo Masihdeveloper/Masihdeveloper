@@ -31,6 +31,7 @@ Thanks for time and Enjoy the rest of your day.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masihdev1" alt="masihdev1" /></a> </p>
 
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iTzArshia&theme=react-dark&hide_border=true&area=true)
 #
 
 <p align="left"> <a href="https://twitter.com/masihdev_" target="blank"><img src="https://img.shields.io/twitter/follow/masihdev_?logo=twitter&style=for-the-badge" alt="masihdev_" /></a> </p>
