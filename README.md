@@ -1,4 +1,4 @@
-### About Me!
+## About Me!
 Hello there, I'm Masih Bagheri [He/Him] and my personality type is INTP-T and start existing 17 years ago and a developer who live in Iran.
 
 Really glad to help other people with all that i know in a field and always try to increase my level of information and knowledge.
@@ -14,7 +14,7 @@ Thanks for time and Enjoy the rest of your day.
 <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20Programmer%20;Discord%20Bot%20Developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=55&color=329ced&vCenter=true&pause=1000&size=30" /></a> </p>
 
 
-# Interests
+## Interests
 `🚗Cars` `💻Coding` `🎨Design`
 
 `🎬Films` `🍔Foods` `👥Freinds`
