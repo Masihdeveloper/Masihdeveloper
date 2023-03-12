@@ -33,7 +33,7 @@ Thanks for time and Enjoy the rest of your day.
 #
 ![Github Lan](https://github-readme-stats.vercel.app/api/top-langs?username=masihdev1&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 #
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=masihdev1&repo=Boost-Unboost-Announcer&theme=react-dark&hide_border=true&area=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=masihdev1&repo=Boost-Unboost-Announcer&theme=dark&hide_border=true&area=true)
 #
 ![trophy](https://github-profile-trophy.vercel.app/?username=masihdev1&theme=tokyonight)
 #
