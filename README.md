@@ -41,6 +41,7 @@ Thanks for time and Enjoy the rest of your day.
 #
 
 <p align="left"> <a href="https://twitter.com/masihdev_" target="blank"><img src="https://img.shields.io/twitter/follow/masihdev_?logo=twitter&style=for-the-badge" alt="masihdev_" /></a> </p>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/masihdev_)
 
 [![Website masih.tk](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://masihdev.tk)
 <img src="https://komarev.com/ghpvc/?username=Masihdev1&color=brightgreen" alt="watching_count" />
