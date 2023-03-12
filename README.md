@@ -43,5 +43,5 @@ Thanks for time and Enjoy the rest of your day.
 [![Website masih.tk](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://masih.tk)
 <img src="https://komarev.com/ghpvc/?username=Masihdev1&color=brightgreen" alt="watching_count" />
 ![GitHub last commit](https://img.shields.io/github/last-commit/masihdev1/masihdev1)
-![MIT License](https://github.com/Masihdev1/Masihdev1/blob/main/LICENSE)
+[![LICENSE: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:masihux@@gmail.com)](mailto:masihux@gmail.com)
