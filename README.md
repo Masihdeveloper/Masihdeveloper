@@ -42,3 +42,4 @@ Thanks for time and Enjoy the rest of your day.
 <img src="https://komarev.com/ghpvc/?username=Masihdev1&color=brightgreen" alt="watching_count" />
 ![GitHub last commit](https://img.shields.io/github/last-commit/masihdev1/masihdev1)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:masihux@@gmail.com)](mailto:masihux@gmail.com)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=masihdev1&repo=Boost-Unboost-Announcer&theme=swift)](https://github.com/masihdev1/Boost-Unboost-Announcer)
