@@ -1,11 +1,10 @@
 ## About Me!
-Hello there, I'm Masih Bagheri [He/Him] and my personality type is INTP-T and start existing 17 years ago and a developer who live in Iran.
+Hello there, I'm Masih Bagheri he/him also my personality type is INTP-T and a 17 years old front-end developer who live in Tehran | Iran.
+Really glad to help other people and solved their problems with all the things that i know in a related fields, Always try to increase my level of skills and knowledge.
 
-Really glad to help other people with all that i know in a field and always try to increase my level of information and knowledge.
+About three years ago, Joined to the Discord application, imagine a place which creates a communication bridge for talk or find new friends and quickly became interested in config, designing stuff and managing the community then after few months of learning, Started my own professional activity for developing the bot in this application since January 21, 2021.
 
-About three years, joined the Discord application, which creates a communication bridge for members, and quickly became interested in structure servers, managing community, coding bots and designing stuff in this program.
-
-One year ago started my own professional activity on Januray 21, 2021, which resulted in currently, have a exclusive and public bot called [Galaxy](https://discord.gg/AU7654nKDC) and design and build about 40+ dedicated and special servers community and bots for content creators and streamers and other public and personal matters.
+I have had many exclusive projects (over 20 servers and 15 bots) that is made for: content creators, streamers, shop and public or private servers and helping them to process their community better, Also my first attempt is a multi-purpose and public discord bot called [Galaxy](https://discord.gg/AU7654nKDC) which has taken me a lot of time.
 
 At the end hope to get a good and useful information about me. So if you have any questions, comments or any ideas or suggestions and order the desired products, you can contact me through my social media, which is [Masihdev_ ](https://zil.ink/masihdev)
 
@@ -44,5 +43,5 @@ Thanks for time and Enjoy the rest of your day.
 [![GALAXY](https://badgen.net/discord/members/AU7654nKDC)](https://discord.gg/AU7654nKDC)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:masihux@@gmail.com)](mailto:masihux@gmail.com)
 
-<p><a href="https://www.coffeebede.com/masihdev" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="160" alt="Thanks for your Support &lt;3"></a></p>
+<p><a href="https://masihdev.tk/donate" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="160" alt="Thanks for your Support &lt;3"></a></p>
 
