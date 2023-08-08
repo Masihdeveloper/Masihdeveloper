@@ -1,12 +1,11 @@
 ## About Me!
-Hello there, I'm Masih Bagheri he/him also my personality type is INTP-T and a 17 years old front-end developer who live in Tehran | Iran.
-Really glad to help other people and solved their problems with all the things that i know in a related fields, Always try to increase my level of skills and knowledge.
+Hello there! It's a pleasure to meet you. I'm Masih Bagheri, an 18 years old front-end developer who residing in Iran and really glad to help others and solve their problems using my knowledge in related fields, Always striving to increase my skills and knowledge.
 
-About three years ago, Joined to the Discord application, imagine a place which creates a communication bridge for talk or find new friends and quickly became interested in config, designing stuff and managing the community then after few months of learning, Started my own professional activity for developing the bot in this application since January 21, 2021.
+round four years ago, I joined to Discord application. which serves as a communication platform making new friends. It didn't take long for me to develop a keen interest in configuring, designing, and managing communities. After a few months of dedicated learning, Embarked on my own professional journey by developing multi-purpose Discord bots starting from January 21, 2021. Recently, I have decided to challenge myself even more by delving into esteemed and demanding domains such as website design, software development, and SEO optimization.
 
-I have had many exclusive projects (over 20 servers and 15 bots) that is made for: content creators, streamers, shop and public or private servers and helping them to process their community better, Also my first attempt is a multi-purpose and public discord bot called [Galaxy](https://discord.gg/AU7654nKDC) which has taken me a lot of time.
+I have worked on numerous exclusive projects, including over 20 servers and 15 bots. these projects were made for content creators, streamers, shops, and public or private servers and helping them enhance their community interactions. Additionally, my first attempt was a public Discord bot called [Galaxy](https://discord.gg/AU7654nKDC) which has taken me a lot of time.
 
-At the end hope to get a good and useful information about me. So if you have any questions, comments or any ideas or suggestions and order the desired products, you can contact me through my social media, which is [Masihdev_ ](https://zil.ink/masihdev)
+At the end, Hope this information provides you with a good understanding of who I am. If you have any questions, comments and suggestions or would like to order [our products](https://masihdev.ir/services), feel free to contact me through my social media which is [Masihdev_ ](https://zil.ink/masihdev)
 
 Thanks for time and Enjoy the rest of your day.
 
