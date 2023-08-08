@@ -1,7 +1,7 @@
 ## About Me!
 Hello there! It's a pleasure to meet you. I'm Masih Bagheri, an 18 years old front-end developer who residing in Iran and really glad to help others and solve their problems using my knowledge in related fields, Always striving to increase my skills and knowledge.
 
-round four years ago, I joined to Discord application. which serves as a communication platform making new friends. It didn't take long for me to develop a keen interest in configuring, designing, and managing communities. After a few months of dedicated learning, Embarked on my own professional journey by developing multi-purpose Discord bots starting from January 21, 2021. Recently, I have decided to challenge myself even more by delving into esteemed and demanding domains such as website design, software development, and SEO optimization.
+Around four years ago, I joined to Discord application. which serves as a communication platform making new friends. It didn't take long for me to develop a keen interest in configuring, designing, and managing communities. After a few months of dedicated learning, Embarked on my own professional journey by developing multi-purpose Discord bots starting from January 21, 2021. Recently, I have decided to challenge myself even more by delving into esteemed and demanding domains such as website design, software development, and SEO optimization.
 
 I have worked on numerous exclusive projects, including over 20 servers and 15 bots. these projects were made for content creators, streamers, shops, and public or private servers and helping them enhance their community interactions. Additionally, my first attempt was a public Discord bot called [Galaxy](https://discord.gg/AU7654nKDC) which has taken me a lot of time.
 
