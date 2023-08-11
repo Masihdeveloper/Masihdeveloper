@@ -23,16 +23,16 @@ Thanks for time and Enjoy the rest of your day.
 #
 ![Github Lan](https://github-readme-stats.vercel.app/api/top-langs?username=masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 #
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=masihdev1&repo=Creating-Discord-Bot&theme=dark&hide_border=true&area=true)](https://github.com/Masihdeveloper/Creating-Discord-Bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=masihdev1&repo=Advanced-Welcomer-Bot&theme=dark&hide_border=true&area=true)](https://github.com/Masihdeveloper/Advanced-Welcomer-Bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=masihdev1&repo=Boost-Unboost-Announcer&theme=dark&hide_border=true&area=true)](https://github.com/Masihdeveloper/Boost-Unboost-Announcer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Masihdeveloper&repo=Creating-Discord-Bot&theme=dark&hide_border=true&area=true)](https://github.com/Masihdeveloper/Creating-Discord-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=masihdeveloper&repo=Advanced-Welcomer-Bot&theme=dark&hide_border=true&area=true)](https://github.com/Masihdeveloper/Advanced-Welcomer-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=masihdeveloper&repo=Boost-Unboost-Announcer&theme=dark&hide_border=true&area=true)](https://github.com/Masihdeveloper/Boost-Unboost-Announcer)
 #
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=masihdeveloper&theme=tokyonight)
 #
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/masihdev_)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/masihdev_)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/masihdeveloper_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/masihdeveloper)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/901765485341859911)
 
 [![Website masihdev.ir](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://masihdev.ir)
