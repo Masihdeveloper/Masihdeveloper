@@ -5,7 +5,7 @@ Around four years ago, I joined to Discord application. which serves as a commun
 
 I have worked on numerous exclusive projects, including over 20 servers and 15 bots. these projects were made for content creators, streamers, shops, and public or private servers and helping them enhance their community interactions. Additionally, my first attempt was a public Discord bot called [Galaxy](https://discord.gg/AU7654nKDC) which has taken me a lot of time.
 
-At the end, Hope this information provides you with a good understanding of who I am. If you have any questions, comments and suggestions or would like to order [our products](https://masihdev.ir/services), feel free to contact me through my social media which is [Masihdeveloper ](https://zil.ink/masihdev)
+At the end, Hope this information provides you with a good understanding of who I am. If you have any questions, comments and suggestions or would like to order [our products](https://masihdev.ir/services), feel free to contact me through my social media which is [Masihdeveloper ](https://zil.ink/masihdeveloper)
 
 Thanks for time and Enjoy the rest of your day.
 
