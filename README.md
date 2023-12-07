@@ -9,7 +9,7 @@ At the end, Hope this information provides you with a good understanding of who 
 
 Thanks for time and Enjoy the rest of your day.
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Programmer%20;Discord%20Bot%20Developer;Experienced%20UI%2FUX%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=55&color=329ced&vCenter=true&pause=1000&size=30" /></a> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Programmer%20;Discord%20Bot%20Developer;Experienced%20Graphic%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=55&color=329ced&vCenter=true&pause=1000&size=30" /></a> </p>
 
 
 ## My Skills and Tools I use
