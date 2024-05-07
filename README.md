@@ -7,7 +7,7 @@ I have worked on numerous exclusive projects, including over than **40** servers
 
 At the end, Hope this information has provided a good understanding of who I am. If you have any questions, suggestions or would like to order [our products](https://masihdev.ir/services), feel free to contact me through my social media which is [Masihdeveloper ](https://zil.ink/masihdeveloper)
 
-Thanks for time and please enjoy the rest of your day.
+Thanks for time and please enjoy the rest of your day!
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Programmer%20;Discord%20Bot%20Developer;Experienced%20Graphic%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=55&color=329ced&vCenter=true&pause=1000&size=30" /></a> </p>
 
