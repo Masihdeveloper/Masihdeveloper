@@ -13,7 +13,7 @@ Thanks for time and please enjoy the rest of your day!
 
 
 ## My Skills and Tools I use
-![My Skills](https://skillicons.dev/icons?i=discordjs,js,ts,html,css,nodejs,jquery,bootstrap,php,vscode,mongodb,postgres,cloudflare,discord,github,git)
+![My Skills](https://skillicons.dev/icons?i=discordjs,js,ts,html,css,nodejs,jquery,bootstrap,php,mongodb,ps,vscode,cloudflare,discord,git)
 
 #
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
