@@ -1,9 +1,9 @@
 ## About Me!
-Hello there! It's a pleasure to meet you. I'm Masih Bagheri, an 18 years old full-stack developer who residing in Iran. Always will really glad to help others with my best for solve their problems in various fields and eager to study any new boundless technologies that improve my skills level.
+Hello there! It's a pleasure to meet you. I'm Masih Bagheri, an **18** years old full-stack developer who residing in Iran. Always will really glad to help others with my best for solve their problems in various fields and eager to study any new boundless technologies that improve my skills level.
 
 Around four years ago, I joined to Discord. which serves as a communication platform to making new friends. It didn't take long for me to acquire a keen interest in configuring, designing and managing communities. After a few months of dedicated learning, Embarked on my own professional journey by developing multi-purpose application bots starting from January 21, 2021. Recently, I have decided to challenge myself even more by delving into esteemed and demanding domains such as website design, software engineering and SEO techniques.
 
-I have worked on numerous exclusive projects, including over than 40 servers and 25 bots. these are made for content creators, streamers, shops, public or private servers and helping them to enhance better their community interactions. Additionally, my first experience was a personal Discord bot called [Galaxy](https://discord.gg/AU7654nKDC) which has taken me a lot of time and is now maintained for examine new released features.
+I have worked on numerous exclusive projects, including over than **40** servers and **25** bots. these are made for content creators, streamers, shops, public or private servers and helping them to enhance better their community interactions. Additionally, my first experience was a personal Discord bot called [Galaxy](https://discord.gg/AU7654nKDC) which has taken me a lot of time and is now maintained for examine new released features.
 
 At the end, Hope this information has provided a good understanding of who I am. If you have any questions, suggestions or would like to order [our products](https://masihdev.ir/services), feel free to contact me through my social media which is [Masihdeveloper ](https://zil.ink/masihdeveloper)
 
@@ -21,10 +21,7 @@ Thanks for time and Enjoy the rest of your day.
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masihdeveloper&theme=react-dark)](https://github.com/masihdeveloper/masihdeveloper)
 #
 ![Github Lan](https://github-readme-stats.vercel.app/api/top-langs?username=masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
-#
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Masihdeveloper&repo=Creating-Discord-Bot&theme=dark&hide_border=true&area=true)](https://github.com/Masihdeveloper/Creating-Discord-Bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=masihdeveloper&repo=Advanced-Welcomer-Bot&theme=dark&hide_border=true&area=true)](https://github.com/Masihdeveloper/Advanced-Welcomer-Bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=masihdeveloper&repo=Boost-Unboost-Announcer&theme=dark&hide_border=true&area=true)](https://github.com/Masihdeveloper/Boost-Unboost-Announcer)
+
 #
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=masihdeveloper&theme=tokyonight)
