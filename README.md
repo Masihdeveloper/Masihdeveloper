@@ -37,7 +37,7 @@ Thanks for time and please enjoy the rest of your day!
 ![GitHub last commit](https://img.shields.io/github/last-commit/masihdeveloper/masihdeveloper)
 [![LICENSE: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GALAXY](https://badgen.net/discord/members/AU7654nKDC)](https://discord.gg/AU7654nKDC)
-[![Gmail Badge](https://img.shields.io/badge/Email-c14438?style=flat-square&logo=Checkmarx&logoColor=white&link=mailto:contact@masihdev.ir)](mailto:contact@masihdev.ir)
+[![Gmail Badge](https://img.shields.io/badge/Email%20me-c14438?style=flat-square&logo=Checkmarx&logoColor=white&link=mailto:contact@masihdev.ir)](mailto:contact@masihdev.ir)
 
 <p><a href="https://masihdev.ir/donate" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="160" alt="Thanks for your Support &lt;3"></a></p>
 
