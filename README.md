@@ -5,7 +5,7 @@ Around four years ago, I joined to Discord. which serves as a communication plat
 
 I have worked on numerous exclusive projects, including over than **40** servers and **25** bots. These are made for content creators, streamers, shops, public or private servers and helping them to enhance better their community interactions. Additionally, my first experience was a personal Discord bot called [Professor X](https://discord.gg/AU7654nKDC) which has taken me a lot of time and is now maintained to examine new released features.
 
-At the end, Hope this information has provided a good understanding of who I am. If you have any questions, suggestions or would like to order [our products](https://masihdev.ir/services), feel free to contact me through my social media which is [Masihdeveloper ](https://zil.ink/masihdeveloper)
+At the end, Hope this information has provided a good understanding of who I am. If you have any questions, suggestions or would like to order [our products](https://masihdev.ir/services), feel free to contact me through my social media which is [Masihdeveloper ](https://masihdev.ir/fa-links)
 
 Thanks for time and please enjoy the rest of your day!
 
