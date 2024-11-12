@@ -26,10 +26,9 @@ Thanks for time and please enjoy the rest of your day!
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=masihdeveloper&theme=tokyonight)
 #
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/masihdeveloper_)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/masihdeveloper)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/901765485341859911)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/masihdeveloper)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/masihdeveloper_)
 
 
 [![Website masihdev.ir](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://masihdev.ir)
