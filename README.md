@@ -1,7 +1,7 @@
 ## About Me!
 Hello there! It's a pleasure to meet you. I'm Masih Bagheri, a **19** years old passionate full-stack developer who residing in Iran. Always will really glad to help others with my best to solve their problems in various fields and eager to study any new boundless technologies that improve my skills level.
 
-Around four years ago, I joined to Discord. which serves as a communication platform to making new friends. It didn't take long for me to acquire a keen interest in configuring, designing and managing communities. After a few months of dedicated learning, Embarked on my own professional journey by developing multi-purpose application bots starting from January 21, 2021. Recently, I have decided to challenge myself even more by delving into esteemed and demanding domains such as website design, software engineering and SEO techniques.
+Around five years ago, I joined to Discord. which serves as a communication platform to making new friends. It didn't take long for me to acquire a keen interest in configuring, designing and managing communities. After a few months of dedicated learning, Embarked on my own professional journey by developing multi-purpose application bots starting from January 21, 2021. Recently, I have decided to challenge myself even more by delving into esteemed and demanding domains such as website design, software engineering and SEO techniques.
 
 I have worked on numerous exclusive projects, including over than **40** servers and **25** bots. These are made for content creators, streamers, shops, public or private servers and helping them to enhance better their community interactions. Additionally, my first experience was a personal Discord bot called [Professor X](https://discord.gg/AU7654nKDC) which has taken me a lot of time and is now maintained to examine new released features.
 
@@ -9,7 +9,7 @@ At the end, Hope this information has provided a good understanding of who I am.
 
 Thanks for time and please enjoy the rest of your day!
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Programmer%20;Discord%20Bot%20Developer;Experienced%20Graphic%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=55&color=329ced&vCenter=true&pause=1000&size=30" /></a> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Programmer%20;Discord%20Bot%20Developer;Experienced%20Graphic%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=55&color=329ced&vCenter=true&pause=1000&size=30" /> </p>
 
 
 ## My Skills and Tools I use
