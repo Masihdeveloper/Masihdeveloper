@@ -24,7 +24,7 @@ Thanks for time and please enjoy the rest of your day!
 
 #
 
-![trophy](https://github-profile-trophy.vercel.app/?username=masihdeveloper&theme=tokyonight&no-bg=true&margin-w=2&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=masihdeveloper&theme=tokyonight&no-bg=true)
 #
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/901765485341859911)
