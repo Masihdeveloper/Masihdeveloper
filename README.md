@@ -16,11 +16,13 @@ Thanks for time and please enjoy the rest of your day!
 ![My Skills](https://skillicons.dev/icons?i=discordjs,js,ts,html,css,nodejs,jquery,bootstrap,mongodb,php,cloudflare,ps,vscode,discord,git)
 
 #
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=929496&bg_color=0d1117)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Masihdeveloper&background=0d1117&border=929496&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masihdeveloper&theme=react-dark)](https://github.com/masihdeveloper/masihdeveloper)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=929496&bg_color=0d1117&border_radius=2" />
+<img src="https://streak-stats.demolab.com/?user=Masihdeveloper&background=0d1117&border=929496&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff&border_radius=2" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=masihdeveloper&theme=react-dark" />
+</p>
+
 #
-![Github Lan](https://github-readme-stats.vercel.app/api/top-langs?username=masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=929496&bg_color=0d1117&border_radius=0)
+![Github Lan](https://github-readme-stats.vercel.app/api/top-langs?username=masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=929496&bg_color=0d1117&border_radius=2)
 
 #
 
