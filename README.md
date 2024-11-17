@@ -12,23 +12,17 @@ Thanks for time and please enjoy the rest of your day!
 <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Programmer%20;Discord%20Bot%20Developer;Experienced%20Graphic%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=550&height=55&color=329ced&vCenter=true&pause=1000&size=30" /> </p>
 
 
-<h2 style="margin-top: 0">My Skills and Tools I use</h2>
-
+## My Skills and Tools I use
 ![My Skills](https://skillicons.dev/icons?i=discordjs,js,ts,html,css,nodejs,jquery,bootstrap,mongodb,php,cloudflare,ps,vscode,discord,git)
-
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=6f7175&bg_color=fff0&custom_title=GitHub%20Stats)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Masihdeveloper&background=fff0&border=6f7175&stroke=57cdf1&ring=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masihdeveloper&bg_color=fff0&title_color=57cdf1&text_color=ffffff&line=57cdf1&point=fff&color=57cdf1&radius=7&area=true&area_color=57cdf1&custom_title=Contribution%20Graph)
-
 ---
 ![Github Lan](https://github-readme-stats.vercel.app/api/top-langs?username=masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&&border_color=6f7175&bg_color=fff0)
-
 ---
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=masihdeveloper&theme=tokyonight&no-bg=true)
-
 ---
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/901765485341859911)
