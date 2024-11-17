@@ -16,11 +16,11 @@ Thanks for time and please enjoy the rest of your day!
 ![My Skills](https://skillicons.dev/icons?i=discordjs,js,ts,html,css,nodejs,jquery,bootstrap,mongodb,php,cloudflare,ps,vscode,discord,git)
 
 #
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=fff0&bg_color=fff0&border_radius=3)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Masihdeveloper&background=fff0&border=fff0&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff&border_radius=3)
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masihdeveloper&bg_color=fff0&title_color=57cdf1&text_color=ffffff&line=57cdf1&point=fff&color=57cdf1&radius=5&area=true&area_color=57cdf1&custom_title=Contribution%20Graph&hide_border=true)](https://github.com/masihdeveloper/masihdeveloper)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=6f7175&bg_color=fff0&border_radius=3)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Masihdeveloper&background=fff0&border=6f7175&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff&border_radius=3)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masihdeveloper&bg_color=fff0&title_color=57cdf1&text_color=ffffff&line=57cdf1&point=fff&color=57cdf1&radius=5&area=true&area_color=57cdf1&custom_title=Contribution%20Graph)](https://github.com/masihdeveloper/masihdeveloper)
 #
-![Github Lan](https://github-readme-stats.vercel.app/api/top-langs?username=masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&&border_color=fff0&bg_color=fff0&border_radius=3)
+![Github Lan](https://github-readme-stats.vercel.app/api/top-langs?username=masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&&border_color=6f7175&bg_color=fff0&border_radius=3)
 
 #
 
