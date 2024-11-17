@@ -23,7 +23,7 @@ Thanks for time and please enjoy the rest of your day!
 ![Github Lan](https://github-readme-stats.vercel.app/api/top-langs?username=masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&&border_color=6f7175&bg_color=fff0)
 ---
 ![trophy](https://github-profile-trophy.vercel.app/?username=masihdeveloper&theme=tokyonight&no-bg=true)
----
+--
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/901765485341859911)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/masihdeveloper)
