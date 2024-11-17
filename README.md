@@ -15,11 +15,11 @@ Thanks for your time! Don't forget to explore the sections below as well.
 ## My Skills and Tools I use
 ![My Skills](https://skillicons.dev/icons?i=discordjs,js,ts,html,css,nodejs,jquery,bootstrap,mongodb,php,cloudflare,ps,vscode,discord,git)
 ## GitHub Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=6f7175&bg_color=0d1117&custom_title=Stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=6f7175&bg_color=0d1117&custom_title=Stats&card_width=494)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Masihdeveloper&background=0d1117&border=6f7175&stroke=57cdf1&ring=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masihdeveloper&bg_color=0d1117&title_color=57cdf1&text_color=ffffff&line=57cdf1&point=fff&color=57cdf1&radius=7&area=true&area_color=57cdf1&custom_title=Contribution%20Graph)
 #
-![Github Lan](https://github-readme-stats.vercel.app/api/top-langs?username=masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&&border_color=6f7175&bg_color=0d1117)
+![Github Lan](https://github-readme-stats.vercel.app/api/top-langs?username=masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&&border_color=6f7175&bg_color=0d1117&custom_title=Most%20Used%20Languages%20in%20Repositories&card_width=360)
 -
 ![trophy](https://github-profile-trophy.vercel.app/?username=masihdeveloper&theme=tokyonight&theme=tokyonight)
 ## More Info
