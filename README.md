@@ -21,7 +21,6 @@ Thanks for time and please enjoy the rest of your day!
 ---
 ![Github Lan](https://github-readme-stats.vercel.app/api/top-langs?username=masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&&border_color=6f7175&bg_color=fff0)
 ---
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=masihdeveloper&theme=tokyonight&no-bg=true)
 ---
 
