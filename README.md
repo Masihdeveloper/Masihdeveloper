@@ -20,7 +20,7 @@ Thanks for time and please enjoy the rest of your day!
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masihdeveloper&bg_color=fff0&title_color=57cdf1&text_color=ffffff&line=57cdf1&point=fff&color=57cdf1&radius=7&area=true&area_color=57cdf1&custom_title=Contribution%20Graph)
 #
 ![Github Lan](https://github-readme-stats.vercel.app/api/top-langs?username=masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&&border_color=6f7175&bg_color=fff0)
-#
+-
 ![trophy](https://github-profile-trophy.vercel.app/?username=masihdeveloper&theme=tokyonight&no-bg=true)
 ## More Info
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/901765485341859911)
