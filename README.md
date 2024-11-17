@@ -16,13 +16,11 @@ Thanks for time and please enjoy the rest of your day!
 ![My Skills](https://skillicons.dev/icons?i=discordjs,js,ts,html,css,nodejs,jquery,bootstrap,mongodb,php,cloudflare,ps,vscode,discord,git)
 
 #
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=929496&bg_color=0d1117&border_radius=2" />
-<img src="https://streak-stats.demolab.com/?user=Masihdeveloper&background=0d1117&border=929496&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff&border_radius=2" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=masihdeveloper&theme=react-dark" />
-</p>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=929496&bg_color=fff0&border_radius=1)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Masihdeveloper&background=fff0&border=929496&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff&border_radius=1)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masihdeveloper&bg_color=fff0&title_color=57cdf1&text_color=ffffff&line=57cdf1&point=fff&color=57cdf1)](https://github.com/masihdeveloper/masihdeveloper)
 #
-![Github Lan](https://github-readme-stats.vercel.app/api/top-langs?username=masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=929496&bg_color=0d1117&border_radius=2)
+![Github Lan](https://github-readme-stats.vercel.app/api/top-langs?username=masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=929496&bg_color=fff0&border_radius=1)
 
 #
 
@@ -42,4 +40,3 @@ Thanks for time and please enjoy the rest of your day!
 [![Gmail Badge](https://img.shields.io/badge/Email-c14438?style=flat-square&logo=Checkmarx&logoColor=white&link=mailto:contact@masihdev.ir)](mailto:contact@masihdev.ir)
 
 <p><a href="https://masihdev.ir/donate" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="160" alt="Thanks for your Support &lt;3"></a></p>
-
