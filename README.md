@@ -1,5 +1,5 @@
 ## About Me
-Hello there! It's a pleasure to meet you. I'm Masih Bagheri, a **19** years old passionate full-stack developer who residing in Iran. Always will really glad to help others with my best to solve their problems in various fields and eager to study any new boundless technologies that improve my skills level.
+I'm Masih Bagheri, a **19** years old passionate full-stack developer who residing in Iran. Always will really glad to help others with my best to solve their problems in various fields and eager to study any new boundless technologies that improve my skills level.
 
 Around five years ago, I joined to Discord. which serves as a communication platform to making new friends. It didn't take long for me to acquire a keen interest in configuring, designing and managing communities. After a few months of dedicated learning, Embarked on my own professional journey by developing multi-purpose application bots starting from January 21, 2021. Recently, I have decided to challenge myself even more by delving into esteemed and demanding domains such as website design, software engineering and SEO techniques.
 
