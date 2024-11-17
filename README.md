@@ -15,17 +15,7 @@ Thanks for time and please enjoy the rest of your day!
 ## My Skills and Tools I use
 ![My Skills](https://skillicons.dev/icons?i=discordjs,js,ts,html,css,nodejs,jquery,bootstrap,mongodb,php,cloudflare,ps,vscode,discord,git)
 ## GitHub Statistics
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=6f7175&bg_color=fff0&custom_title=Stats"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=000&icon_color=57cdf1&border_color=6f7175&bg_color=0d1117&custom_title=Stats"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=masihdeveloper&show_icons=true" />
-</picture>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Masihdeveloper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=6f7175&bg_color=0d1117&custom_title=Stats)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Masihdeveloper&background=0d1117&border=6f7175&stroke=57cdf1&ring=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=masihdeveloper&bg_color=0d1117&title_color=57cdf1&text_color=ffffff&line=57cdf1&point=fff&color=57cdf1&radius=7&area=true&area_color=57cdf1&custom_title=Contribution%20Graph)
 #
